@@ -18,7 +18,9 @@ LOW to HIGH but not vice versa.
 ![283743130-b81a4dc9-7d7f-41a4-9a0a-80da1cd5ba70](https://github.com/nivetharajaa/Simulation-project--Digital-Electronics/assets/120543388/2c91cdb0-451c-4319-9a1e-0b8c95c3d930)
 
 F`= XY` + X`Z + YZ`
+
 F= X`Y`Z` + XYZ
+
 F=F``
 # NETLIST DIAGRAM
 
